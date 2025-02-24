@@ -19,24 +19,34 @@
           <mxGeometry x="20" y="470" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-3" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=default;fillColor=default;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="430" y="320" width="280" height="240" as="geometry" />
+          <mxGeometry x="370" y="325" width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#156082;targetPerimeterSpacing=0;fontSize=11;strokeWidth=3;endArrow=block;endFill=1;endSize=2;" edge="1" parent="1" target="eqOlh_1EKqWcsQfCFC2H-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="575" y="430" as="sourcePoint" />
+            <mxPoint x="515" y="435" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-5" value="&lt;p style=&quot;white-space: normal; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="655" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-6" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; font-weight: bold;&quot;&gt;Item Profile&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 等线; font-weight: bold;&quot;&gt;：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos;&quot;&gt;{&amp;lt;summarization&amp;gt;: &amp;lt;the types of&lt;br&gt;users who might &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: red;&quot;&gt;dislike&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos;&quot;&gt; this&lt;br&gt;toy product&amp;gt;, …}&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="470" width="210" height="80" as="geometry" />
+          <mxGeometry x="390" y="475" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-9" value="&lt;p style=&quot;font-size: 14px; text-align: left; white-space: normal; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="370" y="655" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eqOlh_1EKqWcsQfCFC2H-12" value="&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 14px; text-align: left; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: Aptos; font-weight: bold;&quot;&gt;Item Prompt&lt;/span&gt;&lt;span style=&quot;font-family: 等线; font-weight: bold;&quot;&gt;：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 14px; text-align: left; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;{&amp;lt;title&amp;gt;, &amp;lt;brand&amp;gt;, &amp;lt;categories&amp;gt;, &amp;lt;&lt;/span&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;red&amp;quot;}&quot; style=&quot;font-family: Aptos; color: light-dark(red, rgb(255, 144, 144));&quot;&gt;summarization&lt;/span&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;&amp;gt;}&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; font-size: 14px; text-align: left; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;You will assist me in summarizing which types of users might&amp;nbsp;&lt;/span&gt;&lt;span data-mx-given-colors=&quot;{&amp;quot;color&amp;quot;:&amp;quot;red&amp;quot;}&quot; style=&quot;font-family: Aptos; color: light-dark(red, rgb(255, 144, 144));&quot;&gt;dislike&lt;/span&gt;&lt;span style=&quot;font-family: Aptos;&quot;&gt;&amp;nbsp;a specific toy product.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="330" width="220" height="90" as="geometry" />
+          <mxGeometry x="390" y="335" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eqOlh_1EKqWcsQfCFC2H-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.815;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="cAAzMpG0Tfow3gVaOTzU-6" target="eqOlh_1EKqWcsQfCFC2H-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="480" as="sourcePoint" />
+            <mxPoint x="390" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="500" />
+              <mxPoint x="330" y="400" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
