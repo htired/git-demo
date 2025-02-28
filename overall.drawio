@@ -1,10 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="442niqhSu2lS9myGtu38">
-    <mxGraphModel dx="2119" dy="1115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2458" dy="1354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eqOlh_1EKqWcsQfCFC2H-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);" parent="1" vertex="1">
+        <mxCell id="kIWgFsy2-NyYdf6hUy1c-53" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="190" width="1460" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="eqOlh_1EKqWcsQfCFC2H-27" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-780" y="250" width="640" height="300" as="geometry" />
         </mxCell>
         <mxCell id="cAAzMpG0Tfow3gVaOTzU-6" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=default;fillColor=default;opacity=20;" parent="1" vertex="1">
@@ -68,15 +71,6 @@
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-16" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black; font-weight: bold;&quot;&gt;Step1: Positive and Negtive Item Profile Generation&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="260" width="355" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kIWgFsy2-NyYdf6hUy1c-18" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-770" y="190" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kIWgFsy2-NyYdf6hUy1c-10" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;" vertex="1" parent="kIWgFsy2-NyYdf6hUy1c-18">
-          <mxGeometry width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kIWgFsy2-NyYdf6hUy1c-15" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;User-Item Dual Perspective Chain-of-Thought Analysis&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="kIWgFsy2-NyYdf6hUy1c-18">
-          <mxGeometry y="10" width="430" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-19" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black; font-weight: bold;&quot;&gt;Item Profile&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 等线; color: black; font-weight: bold;&quot;&gt;：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black;&quot;&gt;{&amp;lt;summarization&amp;gt;: &amp;lt;the types of&lt;br&gt;users who might &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: red;&quot;&gt;dislike&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: black;&quot;&gt;&lt;br&gt;this toy product&amp;gt;, …}&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-415" y="450" width="260" height="80" as="geometry" />
         </mxCell>
@@ -86,7 +80,7 @@
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-21" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black; font-weight: bold;&quot;&gt;Item Profile&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 等线; color: black; font-weight: bold;&quot;&gt;：&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black;&quot;&gt;{&amp;lt;summarization&amp;gt;: &amp;lt;the types of&lt;br&gt;users who might &lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: red;&quot;&gt;enjoy&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:Aptos;mso-ascii-font-family:&lt;br/&gt;Aptos;mso-fareast-font-family:等线;mso-bidi-font-family:+mn-cs;mso-ascii-theme-font:&lt;br/&gt;minor-latin;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;&lt;br/&gt;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;&lt;br/&gt;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%&quot;&gt; this&lt;br&gt;toy product&amp;gt;, …}&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="450" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kIWgFsy2-NyYdf6hUy1c-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);" vertex="1" parent="1">
+        <mxCell id="kIWgFsy2-NyYdf6hUy1c-23" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="250" width="640" height="300" as="geometry" />
         </mxCell>
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-24" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=default;fillColor=default;opacity=20;" vertex="1" parent="1">
@@ -170,6 +164,12 @@
             <mxPoint x="-152" y="680" as="sourcePoint" />
             <mxPoint x="48" y="680" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kIWgFsy2-NyYdf6hUy1c-10" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="200" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kIWgFsy2-NyYdf6hUy1c-15" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;User-Item Dual Perspective Chain-of-Thought Analysis&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="210" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
