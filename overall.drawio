@@ -73,17 +73,14 @@
             <mxPoint x="-280" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eqOlh_1EKqWcsQfCFC2H-29" value="&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: black; font-weight: bold;&quot;&gt;Step1: Positive Item Profile Generation&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="265" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="eqOlh_1EKqWcsQfCFC2H-30" value="&lt;p style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: left; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Aptos; color: black; font-weight: bold;&quot;&gt;Step2: Negative Item Profile Generation&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-430" y="265" width="270" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-10" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-770" y="180" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kIWgFsy2-NyYdf6hUy1c-15" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 12pt; color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;User-Item Dual Perspective Chain-of-Thought Analysis&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="190" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIWgFsy2-NyYdf6hUy1c-16" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; color: black; font-weight: bold;&quot;&gt;Step1: Positive and Negtive Item Profile Generation&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="260" width="355" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
