@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.16">
   <diagram name="第 1 页" id="442niqhSu2lS9myGtu38">
-    <mxGraphModel dx="3856" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="3076" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g63IdzE589kyNL6tjwex-527" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="800" y="190" width="630" height="1480" as="geometry" />
+        </mxCell>
         <mxCell id="g63IdzE589kyNL6tjwex-497" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="210.09" width="590" height="1032.5" as="geometry" />
         </mxCell>
@@ -953,10 +956,10 @@
         <mxCell id="g63IdzE589kyNL6tjwex-129" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="920.7700000000001" y="535.7300000000001" width="147.63" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="g63IdzE589kyNL6tjwex-130" value="&lt;b&gt;&lt;i&gt;Time Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;align=center;" parent="1" vertex="1">
+        <mxCell id="g63IdzE589kyNL6tjwex-130" value="&lt;b&gt;&lt;i&gt;Whole-word Decay Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;align=center;" parent="1" vertex="1">
           <mxGeometry x="1164.3999999999996" y="530.7900000000001" width="162.63" height="49.63" as="geometry" />
         </mxCell>
-        <mxCell id="g63IdzE589kyNL6tjwex-133" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 21px; font-weight: 700; text-align: left;&quot;&gt;Temporal Whole-Word Token Embedding&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7E0;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="g63IdzE589kyNL6tjwex-133" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;Position Aware Decay&amp;nbsp;Whole-Word Token Embedding&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7E0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="911.41" y="1390.99" width="408.27" height="56.87" as="geometry" />
         </mxCell>
         <mxCell id="g63IdzE589kyNL6tjwex-137" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#AAAAAA;strokeColor=none;direction=north;" parent="1" vertex="1">
@@ -1294,8 +1297,8 @@
         <mxCell id="g63IdzE589kyNL6tjwex-467" value="99" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7E0;opacity=40;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="1270.0499999999997" y="796.9700000000003" width="39" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="g63IdzE589kyNL6tjwex-469" value="&lt;b&gt;&lt;i&gt;Time Whole-word Ids&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1158.1099999999997" y="847.7000000000002" width="162.63" height="49.63" as="geometry" />
+        <mxCell id="g63IdzE589kyNL6tjwex-469" value="&lt;b&gt;&lt;i&gt;Whole-word&amp;nbsp; Decay ids&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;align=center;" parent="1" vertex="1">
+          <mxGeometry x="1158.11" y="847.7" width="171.89" height="49.63" as="geometry" />
         </mxCell>
         <mxCell id="g63IdzE589kyNL6tjwex-486" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#81D4FA;strokeColor=none;direction=north;" parent="1" vertex="1">
           <mxGeometry x="1114.5949999999996" y="573.8150000000004" width="18" height="43.77" as="geometry" />
@@ -1350,9 +1353,6 @@
         </mxCell>
         <mxCell id="g63IdzE589kyNL6tjwex-525" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#AAAAAA;strokeColor=none;direction=north;" parent="1" vertex="1">
           <mxGeometry x="950" y="913.98" width="28.99" height="64.29" as="geometry" />
-        </mxCell>
-        <mxCell id="g63IdzE589kyNL6tjwex-527" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="800" y="190" width="630" height="1480" as="geometry" />
         </mxCell>
         <mxCell id="g63IdzE589kyNL6tjwex-528" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=light-dark(#042433,#042433);fillColor=none;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="810.48" y="2390.09" width="590" height="1032.5" as="geometry" />
