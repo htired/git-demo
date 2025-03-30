@@ -1897,11 +1897,11 @@
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-293" value="&lt;span&gt;$$\psi_{4}$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81D4FA;opacity=20;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2019.6899999999996" y="5121.579999999999" width="44" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-294" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="2383.0000000000005" y="4819.000000000002" width="108.54" height="22.33" as="geometry" />
+        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-294" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="2383" y="4819" width="154" height="22.33" as="geometry" />
         </mxCell>
-        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-295" value="&lt;b&gt;&lt;i&gt;Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=11;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1927.0000000000005" y="5175.999999999999" width="133.6" height="27.14" as="geometry" />
+        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-295" value="&lt;b&gt;&lt;i&gt;Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1908" y="5184.86" width="169" height="27.14" as="geometry" />
         </mxCell>
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-296" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="2417.8" y="4802.520000000001" width="20" height="30" as="geometry" />
@@ -2260,8 +2260,8 @@
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-422" value="$$\omega_{4}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7E0;opacity=20;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2464.7000000000003" y="4515.13" width="44" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-423" value="&lt;b&gt;&lt;i&gt;Incremental Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=11;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2376" y="4557.000000000001" width="119.77" height="27.14" as="geometry" />
+        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-423" value="&lt;b&gt;&lt;i&gt;Incremental Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2375" y="4551.000000000001" width="119.77" height="27.14" as="geometry" />
         </mxCell>
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-424" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=9.97;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="2278.9999999999995" y="4524.999999999999" width="32.04" height="12.84" as="geometry" />
@@ -2272,8 +2272,8 @@
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-426" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=9.97;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="2278.9999999999995" y="4458.999999999999" width="32.04" height="12.84" as="geometry" />
         </mxCell>
-        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-428" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="2112.74" y="5175.000000000001" width="108.54" height="22.33" as="geometry" />
+        <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-428" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=13;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2109" y="5186.429999999999" width="141.26" height="34" as="geometry" />
         </mxCell>
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-429" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="2162.0199999999995" y="5144.160000000001" width="20" height="30" as="geometry" />
@@ -2342,7 +2342,7 @@
           <mxGeometry x="2420.9" y="4596.650000000001" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-454" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Top-N Recommendation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1983" y="4915" width="192.09" height="34.51" as="geometry" />
+          <mxGeometry x="1995" y="4901" width="192.09" height="34.51" as="geometry" />
         </mxCell>
         <mxCell id="OO_GGU_Gn-7Xe7FsPo4l-455" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Sequential Recommendation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=15;verticalAlign=middle;direction=west;textDirection=vertical-lr;flipH=1;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="2530" y="4472.999999999999" width="24.16" height="262.16" as="geometry" />
