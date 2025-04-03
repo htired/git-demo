@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w5DOpi4JoYRosdNognLr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=default;fillColor=default;shadow=0;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="440" height="60" as="geometry" />
+          <mxGeometry x="120" y="220" width="440" height="130" as="geometry" />
         </mxCell>
         <mxCell id="w5DOpi4JoYRosdNognLr-5" value="Groud-Truth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=light-dark(#fa0000, #ededed);fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="80" height="30" as="geometry" />
@@ -20,28 +20,73 @@
           <mxGeometry x="40" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-1" value="886" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="230" width="40" height="30" as="geometry" />
+          <mxGeometry x="140" y="226" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="641" y="168" width="24" height="12" as="geometry" />
+          <mxGeometry x="266" y="848" width="24" height="12" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="700" y="190" width="20" height="10" as="geometry" />
+          <mxGeometry x="325" y="870" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="677" y="166" width="20" height="30" as="geometry" />
+          <mxGeometry x="302" y="846" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-8" value="Skin Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="623" y="176" width="60" height="30" as="geometry" />
+          <mxGeometry x="248" y="856" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-9" value="Sun" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="713" y="180" width="40" height="30" as="geometry" />
+          <mxGeometry x="338" y="860" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="700" y="160" width="20" height="10" as="geometry" />
+          <mxGeometry x="325" y="840" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-12" value="Hands &amp;amp; Nails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="715" y="150" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="830" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="267" y="918" width="24" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326" y="940" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="303" y="916" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-16" value="Hair Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="249" y="926" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-17" value="Styling Products" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="339" y="930" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="326" y="910" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-19" value="Conditioners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="337" y="900" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-26" value="Skin Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-27" value="Hands &amp;amp; Nails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="122" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-28" value="887" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="208" y="226" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-29" value="Skin Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="198" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-30" value="Hands &amp;amp; Nails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-31" value="508" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="226" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-32" value="Hair Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-33" value="Styling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="277" y="255" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
