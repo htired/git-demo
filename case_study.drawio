@@ -261,8 +261,8 @@
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-160" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=0;shadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="225.5" y="450.34000000000003" as="sourcePoint" />
-            <mxPoint x="468.5" y="450" as="targetPoint" />
+            <mxPoint x="218" y="452.34000000000003" as="sourcePoint" />
+            <mxPoint x="482" y="452" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-167" value="Rank" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iEwvFq9ecLEWDx77p5hx-160">
@@ -399,17 +399,6 @@
         <mxCell id="iEwvFq9ecLEWDx77p5hx-211" value="Item ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="644" y="455" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iEwvFq9ecLEWDx77p5hx-212" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=0;shadow=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="715" y="449.34000000000003" as="sourcePoint" />
-            <mxPoint x="958" y="449" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iEwvFq9ecLEWDx77p5hx-213" value="Rank" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iEwvFq9ecLEWDx77p5hx-212">
-          <mxGeometry x="0.0535" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-214" value="898" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="861" y="454" width="40" height="30" as="geometry" />
         </mxCell>
@@ -487,6 +476,17 @@
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-243" value="Carrot&amp;nbsp;&lt;div&gt;Oil&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="441.5" y="490" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-245" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=0;shadow=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="451.34000000000003" as="sourcePoint" />
+            <mxPoint x="974" y="451" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-246" value="Rank" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iEwvFq9ecLEWDx77p5hx-245">
+          <mxGeometry x="0.0535" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
