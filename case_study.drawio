@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.4">
   <diagram name="第 1 页" id="4Uhte5iW8wxBjM6mHcqK">
-    <mxGraphModel dx="866" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1166" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="210" y="170" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w5DOpi4JoYRosdNognLr-3" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=default;fillColor=default;shadow=0;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="120" y="220" width="740" height="130" as="geometry" />
+          <mxGeometry x="120" y="220" width="900" height="130" as="geometry" />
         </mxCell>
         <mxCell id="w5DOpi4JoYRosdNognLr-5" value="Groud-Truth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=light-dark(#fa0000, #ededed);fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="210" y="90" width="80" height="30" as="geometry" />
@@ -125,13 +125,73 @@
           <mxGeometry x="525" y="255" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-46" value="892" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="593" y="226" width="40" height="30" as="geometry" />
+          <mxGeometry x="599" y="226" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-51" value="Skin Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#FF6666;" vertex="1" parent="1">
           <mxGeometry x="591" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iEwvFq9ecLEWDx77p5hx-52" value="Hands &amp;amp; Nails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="583" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-53" value="Super Nail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="127" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-54" value="Sally Hansen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-55" value="Focus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="277" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-56" value="Mane&#39;n Tail" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="324" y="270" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-57" value="Straight Arrow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="391" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-58" value="Sun-In" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="477" y="270" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-59" value="Donna Karan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="515" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-60" value="Sally Hansen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="583" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-61" value="8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="686" y="226" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-62" value="Bath &amp;amp; Body" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#999900;" vertex="1" parent="1">
+          <mxGeometry x="663" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-63" value="Bathing Accessories" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="653" y="255" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-64" value="Better Living" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="665" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-65" value="893" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="771" y="226" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-66" value="Skin &amp;amp; Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="758" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-67" value="Hands &amp;amp; Nails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="753" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-68" value="Sally Hansen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="755" y="270" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-69" value="893" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="863" y="226" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-70" value="Skin Care" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="855" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-71" value="Sun" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="865" y="255" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iEwvFq9ecLEWDx77p5hx-72" value="Sally Hansen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Times New Roman;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="847" y="270" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
