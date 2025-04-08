@@ -3557,7 +3557,7 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1506" value="&lt;span&gt;$$\psi_{4}$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81D4FA;opacity=20;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="2148.53" y="8607.48" width="63" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1507" value="&lt;b&gt;&lt;i&gt;Token Embeddings&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=23;" parent="1" vertex="1">
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1507" value="&lt;b&gt;&lt;span&gt;Token Embeddings&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=25;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2523" y="8289" width="247" height="22.33" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1508" value="&lt;b&gt;&lt;span&gt;Whole-word Embedding&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=23;align=center;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
@@ -3848,8 +3848,8 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1592" value="$$\omega_{4}$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7E0;opacity=20;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="2676.6900000000005" y="7891.13" width="63" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1593" value="&lt;b&gt;&lt;i&gt;Incremental Whole-word Embedding&lt;/i&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=23;align=center;" parent="1" vertex="1">
-          <mxGeometry x="2501" y="7944" width="254" height="58" as="geometry" />
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1593" value="&lt;b&gt;&lt;span&gt;Incremental Whole-word Embedding&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=25;align=center;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="2501" y="7939" width="254" height="58" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1594" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=9.97;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="2436" y="7894" width="34" height="19" as="geometry" />
@@ -3908,8 +3908,8 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1612" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Top-N Recommendation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=26;verticalAlign=middle;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2104" y="8355" width="279" height="34.51" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1613" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Sequential Recommendation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=26;verticalAlign=middle;direction=west;textDirection=vertical-lr;flipH=1;flipV=1;" parent="1" vertex="1">
-          <mxGeometry x="2763" y="7869" width="79" height="262.16" as="geometry" />
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1613" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Sequential Recommendation&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=28;verticalAlign=middle;direction=west;textDirection=vertical-rl;flipH=1;flipV=1;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2765" y="7869" width="79" height="262.16" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1614" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.49;dx=17.65;notch=0;fillColor=#81D4FA;strokeColor=none;direction=south;" parent="1" vertex="1">
           <mxGeometry x="2596" y="8325" width="51" height="34" as="geometry" />
