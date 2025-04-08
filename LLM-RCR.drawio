@@ -3064,7 +3064,7 @@
           <mxGeometry x="1057" y="7784" width="715" height="494" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1370" value="" style="rounded=1;whiteSpace=wrap;html=1;imageAspect=1;glass=0;arcSize=16;fillColor=none;strokeColor=#156082;" vertex="1" parent="1">
-          <mxGeometry x="1506.35" y="8116.91" width="251.65" height="134.09" as="geometry" />
+          <mxGeometry x="1506.35" y="8116.91" width="235.65" height="134.09" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1371" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="194" y="7727" width="710" height="58" as="geometry" />
@@ -3251,8 +3251,8 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1415" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="1243" y="7900" width="38.82" height="26.28" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1416" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Relation-Aware Graph&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=21;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1274" y="8021" width="243" height="40" as="geometry" />
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1416" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Relation-Aware Graph&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=23;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="8023" width="281" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1417" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#747474;strokeColor=none;opacity=60;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1611" y="8067" width="42" height="43" as="geometry" />
@@ -3269,7 +3269,7 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1421" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$\tilde{E}_u$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="1453.0000000000002" y="8169" width="52.5" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1422" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;User Similarity Matrix&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=21;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1422" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;User Similarity Matrix&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=23;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1172" y="8206" width="262.25" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1423" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=8;flipH=1;shadow=0;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" vertex="1" parent="1">
@@ -3632,7 +3632,7 @@
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1531" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.48;dx=22.56;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="898" y="8159" width="158" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1532" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Unidirectional&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(black, rgb(237, 237, 237)); font-style: italic; font-weight: bold; background-color: transparent;&quot;&gt;Transfer&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=16;align=center;" vertex="1" parent="1">
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1532" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Unidirectional&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(black, rgb(237, 237, 237)); font-style: italic; font-weight: bold; background-color: transparent;&quot;&gt;Transfer&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=20;align=center;" vertex="1" parent="1">
           <mxGeometry x="2019" y="8110" width="196" height="28" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1533" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=2.4482248520710055;endSize=1.1057692307692308;width=1.7307692307692306;strokeColor=none;fillColor=#3EA3DA;exitX=0.963;exitY=0.281;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.065;entryY=0.663;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5kGz1iM-CIch3Nb5YSxw-1479" target="5kGz1iM-CIch3Nb5YSxw-1481">
@@ -4151,7 +4151,7 @@
             <mxPoint x="1405.5" y="7975.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1688" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Graph Neural Network&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=21;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="5kGz1iM-CIch3Nb5YSxw-1688" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;Graph Neural Network&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=23;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1527" y="8023" width="245.92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5kGz1iM-CIch3Nb5YSxw-1689" value="" style="group;fontSize=20;" vertex="1" connectable="0" parent="1">
