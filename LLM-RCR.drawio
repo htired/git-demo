@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.2.9">
   <diagram name="第 1 页" id="1uPgYDbh0dgHihSLWT6n">
-    <mxGraphModel dx="8865" dy="-1875" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="7252" dy="-3020" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1705,10 +1705,10 @@
           <mxGeometry x="2663" y="12254" width="590" height="310" as="geometry" />
         </mxCell>
         <mxCell id="1jypAFbb2luiOgpQmB7--91" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-441" y="9409" width="885" height="76" as="geometry" />
+          <mxGeometry x="-560" y="11450" width="1550" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1jypAFbb2luiOgpQmB7--92" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;User-Item Dual Perspective Chain-of-Thought Analysis&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=36;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-448" y="9435" width="904" height="47" as="geometry" />
+        <mxCell id="1jypAFbb2luiOgpQmB7--92" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;User-Item Dual Perspective Chain-of-Thought Reasoning&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-560" y="11470" width="1490" height="47" as="geometry" />
         </mxCell>
         <mxCell id="1jypAFbb2luiOgpQmB7--95" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=light-dark(#f9d8c6, #ededed);shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1700" y="12185" width="250" height="239" as="geometry" />
@@ -1929,10 +1929,10 @@
           <mxGeometry x="133.9999999999991" y="9187" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1jypAFbb2luiOgpQmB7--160" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="10470" width="532" height="57" as="geometry" />
+          <mxGeometry x="1198" y="11454" width="850" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1jypAFbb2luiOgpQmB7--161" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;Relation-Aware User Modeling&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=36;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="272" y="10475" width="521" height="30" as="geometry" />
+        <mxCell id="1jypAFbb2luiOgpQmB7--161" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;Relation-Aware User Modeling&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1208" y="11465" width="908" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1jypAFbb2luiOgpQmB7--162" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="3302" y="11450" width="880" height="90" as="geometry" />
