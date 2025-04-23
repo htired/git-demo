@@ -1653,9 +1653,6 @@
         <mxCell id="1jypAFbb2luiOgpQmB7--90" value="" style="rounded=1;whiteSpace=wrap;html=1;imageAspect=1;glass=0;arcSize=16;fillColor=none;strokeColor=#156082;" parent="1" vertex="1">
           <mxGeometry x="2663" y="12390" width="590" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="1jypAFbb2luiOgpQmB7--91" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="268" y="10346" width="1550" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="1jypAFbb2luiOgpQmB7--92" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(a) &lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-weight: 700; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;User-Item Dual Perspective Chain-of-Thought Reasoning&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-589" y="11450" width="1618" height="103" as="geometry" />
         </mxCell>
@@ -2110,8 +2107,8 @@
             <mxPoint x="2951.5" y="11942.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUFkh1kIjpycbYnfQv2c-228" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;font&gt;Relation-Aware Graph&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="1947" y="12210" width="627" height="40" as="geometry" />
+        <mxCell id="YUFkh1kIjpycbYnfQv2c-228" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;font&gt;Relation Graph&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="2070" y="12200" width="433" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YUFkh1kIjpycbYnfQv2c-231" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=8;flipH=1;shadow=0;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" parent="1" vertex="1">
           <mxGeometry x="2987" y="12417" width="53" height="268" as="geometry" />
