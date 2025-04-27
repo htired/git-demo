@@ -363,7 +363,7 @@
           <mxGeometry x="2979.09" y="2333.3" width="282.98" height="265.58" as="geometry" />
         </mxCell>
         <mxCell id="9koBwyaTFUzayNNgu-wF-2" value="&lt;span style=&quot;font-weight: bold;&quot;&gt;Top-N&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Recommendation&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=80;align=center;fontColor=default;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="210" y="5320" width="679.59" height="220" as="geometry" />
+          <mxGeometry x="290" y="5370" width="679.59" height="220" as="geometry" />
         </mxCell>
         <mxCell id="9koBwyaTFUzayNNgu-wF-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -433,6 +433,9 @@
         </mxCell>
         <mxCell id="9koBwyaTFUzayNNgu-wF-34" value="&lt;span style=&quot;font-weight: bold;&quot;&gt;Skincare &lt;br&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;(Long-term)&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=69;align=center;fontColor=#007FFF;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="3353.18" y="5590" width="448.29" height="173.45" as="geometry" />
+        </mxCell>
+        <mxCell id="EX6mg1KPedmYDgQewkja-3" value="&lt;span style=&quot;font-weight: bold;&quot;&gt;Sequential&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Recommendation&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=80;align=center;fontColor=default;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="310" y="6100" width="679.59" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
