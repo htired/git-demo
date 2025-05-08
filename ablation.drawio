@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
   <diagram name="第 1 页" id="Uk0FR1fmgimGJNQjOmsA">
-    <mxGraphModel dx="6604" dy="3316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="5637" dy="2630" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1889" y="1330" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="ksKn7s3a-SyRqxdlHsej-1" value="&lt;font&gt;HR@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=75;fontStyle=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-746" y="4556" width="266" height="102" as="geometry" />
+          <mxGeometry x="-696" y="4545" width="266" height="102" as="geometry" />
         </mxCell>
         <mxCell id="ksKn7s3a-SyRqxdlHsej-2" value="&lt;font&gt;NDCG@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=36;fontStyle=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2319" y="1546" width="189" height="55" as="geometry" />
@@ -87,6 +87,24 @@
         </mxCell>
         <mxCell id="ksKn7s3a-SyRqxdlHsej-12" value="toys" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontFamily=Times New Roman;fontSize=36;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1572" y="853" width="63.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-1" value="sports" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontFamily=Times New Roman;fontSize=75;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-162" y="3175" width="253" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-2" value="beauty" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontFamily=Times New Roman;fontSize=75;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1994" y="3175" width="276.75" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-3" value="toys" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontStyle=1;fontFamily=Times New Roman;fontSize=75;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="966" y="3175" width="159.75" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-4" value="&lt;font&gt;HR@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=75;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-696" y="3602" width="266" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-5" value="&lt;font&gt;NDCG@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=75;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="2508" y="3597" width="375" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="UZRnwdBC_X2VFn-79qqw-6" value="&lt;font&gt;NDCG@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=75;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="2508" y="4553" width="375" height="102" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
