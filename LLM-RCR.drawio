@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
   <diagram name="第 1 页" id="1uPgYDbh0dgHihSLWT6n">
-    <mxGraphModel dx="5785" dy="-8560" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="7447" dy="-7813" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3329,12 +3329,6 @@
         <mxCell id="5NuHPn3RRZNFfll2QpHS-566" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=8;flipH=1;shadow=0;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" parent="1" vertex="1">
           <mxGeometry x="2987" y="21219" width="53" height="268" as="geometry" />
         </mxCell>
-        <mxCell id="5NuHPn3RRZNFfll2QpHS-567" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.962;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.832;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;endSize=17;" parent="1" source="5NuHPn3RRZNFfll2QpHS-429" target="5NuHPn3RRZNFfll2QpHS-619" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="787" y="21628" as="sourcePoint" />
-            <mxPoint x="777" y="21308" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5NuHPn3RRZNFfll2QpHS-568" value="&lt;span style=&quot;font-weight: 700; text-align: left;&quot;&gt;Large Language Model&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#81D4FA;strokeColor=none;textDirection=vertical-lr;fontFamily=Times New Roman;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="5360" y="20505" width="120" height="1935" as="geometry" />
         </mxCell>
@@ -3744,18 +3738,6 @@
         </mxCell>
         <mxCell id="5NuHPn3RRZNFfll2QpHS-695" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;font&gt;Graph Neural Network&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;verticalAlign=middle;fontFamily=Times New Roman;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="2677" y="21036" width="660" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="5NuHPn3RRZNFfll2QpHS-696" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.968;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.904;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;endSize=17;" parent="1" source="5NuHPn3RRZNFfll2QpHS-429" target="5NuHPn3RRZNFfll2QpHS-422" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="889" y="21605" as="sourcePoint" />
-            <mxPoint x="887" y="21268" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5NuHPn3RRZNFfll2QpHS-697" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.973;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.976;exitY=0.025;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=6;endSize=17;" parent="1" source="5NuHPn3RRZNFfll2QpHS-429" target="5NuHPn3RRZNFfll2QpHS-415" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="993.2459999999992" y="21659.667" as="sourcePoint" />
-            <mxPoint x="991.6020000000008" y="21012.865" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5NuHPn3RRZNFfll2QpHS-698" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold; font-style: italic;&quot;&gt;&lt;font&gt;.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=60;" parent="1" vertex="1">
           <mxGeometry x="3772" y="21891" width="26" height="30" as="geometry" />
