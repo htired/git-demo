@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HckYzxl0msciPjgqUtGN-8" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=none;fillColor=default;opacity=40;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-870" y="26260" width="3890" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="HckYzxl0msciPjgqUtGN-402" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=none;fillColor=default;opacity=40;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-840" y="24950" width="3890" height="1060" as="geometry" />
+        </mxCell>
         <mxCell id="dfgi01gEBMmZerLeof7x-91" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#E97132,#E6F7FF);gradientDirection=north;strokeColor=none;fillColor=default;opacity=10;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="27222" width="480" height="520" as="geometry" />
         </mxCell>
@@ -4130,10 +4136,7 @@
           <mxGeometry x="800" y="20470" width="810" height="81" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-7" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="26110" width="820" height="94" as="geometry" />
-        </mxCell>
-        <mxCell id="HckYzxl0msciPjgqUtGN-8" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=none;fillColor=default;opacity=20;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-870" y="26260" width="3890" height="730" as="geometry" />
+          <mxGeometry x="-810" y="26110" width="820" height="94" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#00994D;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="500" y="27292" width="420" height="420" as="geometry" />
@@ -4259,7 +4262,7 @@
           <mxGeometry x="2423" y="25682" width="590" height="310" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-48" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(a) Hierarchical Semantic Reasoning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontStyle=0;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-790" y="24830" width="1300" height="160" as="geometry" />
+          <mxGeometry x="450" y="24880" width="1300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=light-dark(#f9d8c6, #ededed);shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1460" y="25647" width="250" height="239" as="geometry" />
@@ -5389,17 +5392,14 @@
             <mxPoint x="5260" y="24780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HckYzxl0msciPjgqUtGN-402" value="" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=light-dark(#FFEFD5,#E6F7FF);gradientDirection=south;strokeColor=none;fillColor=default;opacity=20;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="24950" width="3890" height="1060" as="geometry" />
-        </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-403" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;Low-level Semantic Integration&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="570" y="26120" width="820" height="81" as="geometry" />
+          <mxGeometry x="-810" y="26120" width="820" height="81" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-404" value="" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=13;arcSize=0;fillColor=#A9A9A9;strokeColor=none;opacity=50;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="560" y="24950" width="820" height="94" as="geometry" />
+          <mxGeometry x="-810" y="24990" width="820" height="94" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-405" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;High-level Semantic Reasoning&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=60;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="24960" width="810" height="81" as="geometry" />
+          <mxGeometry x="-810" y="25000" width="810" height="81" as="geometry" />
         </mxCell>
         <mxCell id="HckYzxl0msciPjgqUtGN-415" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;direction=west;flipH=1;flipV=1;rotation=24;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-224.91" y="27083.14" width="630" height="327.03" as="geometry" />
