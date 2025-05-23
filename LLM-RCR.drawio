@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.8">
   <diagram name="第 1 页" id="1uPgYDbh0dgHihSLWT6n">
-    <mxGraphModel dx="8355" dy="-5690" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="6550" dy="-5175" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5827,7 +5827,7 @@
         <mxCell id="TKqlFZiTvlTvTZW2fVpd-45" value="" style="rounded=1;whiteSpace=wrap;html=1;imageAspect=1;glass=0;arcSize=16;fillColor=none;strokeColor=#156082;" parent="1" vertex="1">
           <mxGeometry x="5730" y="31132" width="590" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="TKqlFZiTvlTvTZW2fVpd-46" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(a) Low-level Semantic Reasoning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontStyle=0;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
+        <mxCell id="TKqlFZiTvlTvTZW2fVpd-46" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(a) Individual Interest Reasoning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontStyle=0;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
           <mxGeometry x="3837" y="29311" width="1300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TKqlFZiTvlTvTZW2fVpd-47" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=light-dark(#f9d8c6, #ededed);shadow=0;" parent="1" vertex="1">
@@ -6030,7 +6030,7 @@
         <mxCell id="TKqlFZiTvlTvTZW2fVpd-96" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#F2AA84,#EDEDED);strokeWidth=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="3460" y="31948" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="TKqlFZiTvlTvTZW2fVpd-97" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;(c) Iterative Preference Optimization&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
+        <mxCell id="TKqlFZiTvlTvTZW2fVpd-97" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span&gt;&lt;b&gt;(c) Iterative Refinement&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
           <mxGeometry x="3890" y="31528" width="1120" height="114" as="geometry" />
         </mxCell>
         <mxCell id="TKqlFZiTvlTvTZW2fVpd-98" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=8;flipH=1;shadow=0;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" parent="1" vertex="1">
@@ -7135,7 +7135,7 @@
         <mxCell id="TKqlFZiTvlTvTZW2fVpd-428" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.57;dx=44;notch=0;fillColor=#747474;strokeColor=none;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="6409" y="29737" width="171" height="132" as="geometry" />
         </mxCell>
-        <mxCell id="JETLIRB3Z-c1TZoEe5jw-1" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(b) High-level Semantic Reasoning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontStyle=0;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
+        <mxCell id="JETLIRB3Z-c1TZoEe5jw-1" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: black; font-weight: bold;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;(b) Group Interest Resoning&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontStyle=0;fontFamily=Times New Roman;align=center;" parent="1" vertex="1">
           <mxGeometry x="3801" y="30303" width="1300" height="160" as="geometry" />
         </mxCell>
         <mxCell id="JETLIRB3Z-c1TZoEe5jw-8" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.47;dx=56.32;notch=0;fillColor=#747474;strokeColor=none;opacity=60;direction=south;" parent="1" vertex="1">
@@ -7147,13 +7147,13 @@
         <mxCell id="JETLIRB3Z-c1TZoEe5jw-14" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;b&gt;SR&lt;/b&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;shadow=0;fontSize=70;fontFamily=Times New Roman;fontStyle=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="6345" y="31945" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ckXciY4GKWa7Q3pweR2a-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="ckXciY4GKWa7Q3pweR2a-1" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;exitX=0;exitY=0.75;exitDx=0;exitDy=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="6587" y="32335" as="sourcePoint" />
             <mxPoint x="6578" y="29509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ckXciY4GKWa7Q3pweR2a-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=39.5;notch=0;fillColor=light-dark(#81d4fa, #2c98d3);strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ckXciY4GKWa7Q3pweR2a-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=39.5;notch=0;fillColor=light-dark(#81d4fa, #2c98d3);strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="7413" y="30752" width="110" height="270" as="geometry" />
         </mxCell>
       </root>
