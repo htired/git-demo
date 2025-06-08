@@ -423,7 +423,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-243" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-753" y="1620" width="1580" height="750" as="geometry" />
+          <mxGeometry x="-741.75" y="1610" width="1580" height="750" as="geometry" />
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-244" value="Domain MOE (DMOE)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-700" y="1660" width="830" height="100" as="geometry" />
@@ -453,6 +453,11 @@
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-248" value="DE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="-682.69" y="2070" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="WpgspOlR7vtGrMj2Mmy2-263">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-448" y="1810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-263" value="Weighted Sum" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-643.31" y="1910" width="390" height="100" as="geometry" />
