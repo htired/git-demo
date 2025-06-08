@@ -423,19 +423,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-243" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="1630" width="1620" height="940" as="geometry" />
+          <mxGeometry x="-760" y="1630" width="1580" height="750" as="geometry" />
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-244" value="Domain MOE (DMOE)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-700" y="1660" width="830" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WpgspOlR7vtGrMj2Mmy2-245" value="Router" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2060" width="228.75" height="110" as="geometry" />
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-250" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="WpgspOlR7vtGrMj2Mmy2-245" target="WpgspOlR7vtGrMj2Mmy2-247">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpgspOlR7vtGrMj2Mmy2-246" value="Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="WpgspOlR7vtGrMj2Mmy2-245" target="WpgspOlR7vtGrMj2Mmy2-246">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="WpgspOlR7vtGrMj2Mmy2-245" target="WpgspOlR7vtGrMj2Mmy2-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-245" value="Router" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="539" y="2045" width="228.75" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-246" value="Domain Expert" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1900" width="392" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WpgspOlR7vtGrMj2Mmy2-247" value="Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-247" value="Domain Expert" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="-50" y="2050" width="392" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WpgspOlR7vtGrMj2Mmy2-248" value="Domain Expert" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="2200" width="392" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
