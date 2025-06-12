@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7nn8ILWFPDAdFlnMwxHS-187" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="716.5" y="3150" width="743.5" height="550" as="geometry" />
+          <mxGeometry x="800" y="3150" width="660" height="460" as="geometry" />
         </mxCell>
         <mxCell id="WpgspOlR7vtGrMj2Mmy2-242" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-795" y="196" width="2330" height="1360" as="geometry" />
@@ -687,8 +687,8 @@
         <mxCell id="7nn8ILWFPDAdFlnMwxHS-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjE0NS4zNzEyNzAxNzk3NDg1NCIgd2lkdGg9IjE1Ni4yNSIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIxMTIgMTUxLjY5OTEyNzE5NzI2NTYyIDgwMCA3NDQuMzAwOTAzMzIwMzEyNSIgY2xhc3M9Imljb24iPjxwYXRoIGZpbGw9IiM0MkI0RkEiIGQ9Ik05MTIgNDMyYTQ4IDQ4IDAgMCAwLTQ4LTQ4SDE2MGE0OCA0OCAwIDAgMC00OCA0OHYxMjhhNDggNDggMCAwIDAgNDggNDh2MjQwYTQ4IDQ4IDAgMCAwIDQ4IDQ4aDYwOGE0OCA0OCAwIDAgMCA0OC00OFY2MDhhNDggNDggMCAwIDAgNDgtNDh2LTEyOHoiLz48cGF0aCBmaWxsPSIjOTJEQkZGIiBkPSJNNDkwLjc1MiAxNTIuNDQ4YTQ4IDQ4IDAgMCAxIDU1LjY5NiAzOC44bDI0LjIwOCAxMzUuMjggODMuMjE2LTE0MS4xODRhNDggNDggMCAwIDEgNjUuNzI4LTE2Ljk2bDExMC4yNzIgNjQuOTkyYTQ4IDQ4IDAgMCAxIDE2Ljk2IDY1LjcyOEw3OTYuOCAzODRIMTkwLjgzMmwtMjIuMzg0LTEyNS4xNTJhNDggNDggMCAwIDEgMzguOC01NS42OGwyODMuNTA0LTUwLjcyeiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yODQuMTYgNTEyaDIzMC4wOTZjMTUuNjY0IDAgMjkuNzQ0IDE1LjE1MiAyOS43NDQgMzIgMCAxOC41MjgtMTQuMDggMzItMjkuNzQ0IDMyaC0yMzAuMDhjLTcuODQgMC0xNS42NDgtMy4zNi0yMC4zNTItMTEuNzkyLTMuMTItMy4zNi00LjY4OC02LjcyLTYuMjU2LTEwLjA5Ni0xLjU2OC0zLjM2LTEuNTY4LTguNDMyLTEuNTY4LTExLjc5MiAwLTMuMzYgMC04LjQzMiAxLjU2OC0xMS43OTIgMS41NjgtMy4zNiAzLjEzNi02LjczNiA2LjI1Ni0xMC4xMTIgNC43MDQtNS4wNTYgMTIuNTI4LTguNDE2IDIwLjM1Mi04LjQxNnoiLz48L3N2Zz4=;" vertex="1" parent="1">
           <mxGeometry x="1269.73" y="3167.25" width="145.77" height="135.5" as="geometry" />
         </mxCell>
-        <mxCell id="7nn8ILWFPDAdFlnMwxHS-37" value="Item Attributes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="726.56" y="3180" width="510" height="110" as="geometry" />
+        <mxCell id="7nn8ILWFPDAdFlnMwxHS-37" value="Item Attributes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=70;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="805" y="3185" width="450" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7nn8ILWFPDAdFlnMwxHS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="7nn8ILWFPDAdFlnMwxHS-45">
           <mxGeometry relative="1" as="geometry">
@@ -1145,17 +1145,17 @@
             <mxPoint x="1499" y="5803" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nn8ILWFPDAdFlnMwxHS-188" value="Title" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=60;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="763.25" y="3300" width="130" height="90" as="geometry" />
+        <mxCell id="7nn8ILWFPDAdFlnMwxHS-188" value="Title:Daily Childcare Journal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="810" y="3300" width="610" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7nn8ILWFPDAdFlnMwxHS-189" value="Brand" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=60;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="763.25" y="3370" width="170" height="90" as="geometry" />
+        <mxCell id="7nn8ILWFPDAdFlnMwxHS-189" value="Brand:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Schedule Log&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="823" y="3380" width="450" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7nn8ILWFPDAdFlnMwxHS-190" value="Categories" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=60;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="763.25" y="3454" width="280" height="90" as="geometry" />
+        <mxCell id="7nn8ILWFPDAdFlnMwxHS-190" value="Categories:&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Baby Tracker&amp;amp;reg&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="815" y="3470" width="640" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7nn8ILWFPDAdFlnMwxHS-191" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=60;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="768.25" y="3520" width="70" height="90" as="geometry" />
+          <mxGeometry x="837.31" y="3507" width="70" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
