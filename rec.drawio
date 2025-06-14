@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="4776" dy="3311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="5434" dy="3863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,17 +10,11 @@
         <mxCell id="ygneEnV-Y3kPG3GIsKet-201" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#DAE8FC,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#7EA6E0,#EDEDED);gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="3541.48" y="3688.56" width="150.28" height="140.88" as="geometry" />
         </mxCell>
-        <mxCell id="ygneEnV-Y3kPG3GIsKet-198" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2023.75" y="3210" width="1186.25" height="930" as="geometry" />
-        </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-130" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2073" y="3649" width="293" height="293" as="geometry" />
         </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-61" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=#FF9C7D;strokeWidth=4;dashed=1;dashPattern=12 12;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2473.88" y="3250" width="715" height="715" as="geometry" />
-        </mxCell>
-        <mxCell id="ygneEnV-Y3kPG3GIsKet-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1217.75" y="3214" width="422.25" height="586" as="geometry" />
         </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1262.5900000000001" y="3380.56" width="150.28" height="140.88" as="geometry" />
@@ -1346,9 +1340,6 @@
         <mxCell id="ygneEnV-Y3kPG3GIsKet-16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=39.5;notch=0;fillColor=#118ED3;strokeColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="1675" y="3442" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ygneEnV-Y3kPG3GIsKet-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="913.49" y="3851" width="731" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=3;" edge="1" parent="1" source="ygneEnV-Y3kPG3GIsKet-45" target="ygneEnV-Y3kPG3GIsKet-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1588,9 +1579,6 @@
             <mxPoint x="2784.04" y="3193" as="sourcePoint" />
             <mxPoint x="2370.04" y="3010" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="ygneEnV-Y3kPG3GIsKet-184" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3308" y="3250" width="421.42" height="770" as="geometry" />
         </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-185" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#E97132,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="3352.84" y="3463.68" width="150.28" height="140.88" as="geometry" />
