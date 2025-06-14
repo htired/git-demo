@@ -1709,9 +1709,6 @@
         <mxCell id="ygneEnV-Y3kPG3GIsKet-259" value="Factor Weight" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=58;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1507.25" y="4539" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ygneEnV-Y3kPG3GIsKet-261" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 68px; text-wrap-mode: nowrap;&quot;&gt;$$\mathcal{S}&#39;_u$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2014.6299999999999" y="4652" width="233" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-262" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#7EA6E0,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="2047.42" y="4330" width="150.28" height="140.88" as="geometry" />
         </mxCell>
@@ -1729,6 +1726,9 @@
             <mxPoint x="1990" y="4540" as="sourcePoint" />
             <mxPoint x="2020" y="4489" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ygneEnV-Y3kPG3GIsKet-270" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 68px; text-wrap-mode: nowrap;&quot;&gt;$$\tilde{\mathcal{S}_u}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1989.25" y="4666" width="233" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
