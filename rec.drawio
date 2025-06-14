@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="5434" dy="3863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4776" dy="3311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ygneEnV-Y3kPG3GIsKet-290" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="692.64" y="4180.12" width="3297.36" height="609.88" as="geometry" />
+          <mxGeometry x="692.64" y="4180.12" width="3337.36" height="609.88" as="geometry" />
         </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-203" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="3176" width="2870" height="944" as="geometry" />
@@ -1577,8 +1577,14 @@
             <mxPoint x="3640" y="4478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ygneEnV-Y3kPG3GIsKet-378" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="ygneEnV-Y3kPG3GIsKet-376" target="ygneEnV-Y3kPG3GIsKet-377">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ygneEnV-Y3kPG3GIsKet-376" value="Prediction Layer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="3860" y="4256" width="80.5" height="433.32" as="geometry" />
+        </mxCell>
+        <mxCell id="ygneEnV-Y3kPG3GIsKet-377" value="$$y_{N+1}$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3780" y="3942" width="233" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
