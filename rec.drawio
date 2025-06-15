@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.5">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="5356" dy="3311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3091" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1797,6 +1797,9 @@
         <mxCell id="M1WYHdtxoTObogMDeWu9-217" value="$$\text{LLM}_k$$" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1926.16" y="10197.119999999999" width="184.05" height="109.12" as="geometry" />
         </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-205" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="M1WYHdtxoTObogMDeWu9-218" target="fIDexPAyapZC-ZXWYycg-204">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="M1WYHdtxoTObogMDeWu9-218" value="Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=50;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="1470" y="9952.74" width="354.25" height="87.26" as="geometry" />
         </mxCell>
@@ -2800,6 +2803,9 @@
         </mxCell>
         <mxCell id="fIDexPAyapZC-ZXWYycg-202" value="&lt;span style=&quot;font-size: 50px; text-wrap-mode: nowrap;&quot;&gt;$$v$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1764.86" y="10050" width="39.14" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1591.9199999999998" y="9862.62" width="110.41" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
