@@ -2503,18 +2503,6 @@
         <mxCell id="fIDexPAyapZC-ZXWYycg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" edge="1" parent="1" source="fIDexPAyapZC-ZXWYycg-8" target="fIDexPAyapZC-ZXWYycg-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fIDexPAyapZC-ZXWYycg-56" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1893" y="11290" as="sourcePoint" />
-            <mxPoint x="1893" y="11050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fIDexPAyapZC-ZXWYycg-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2107.07" y="11290" as="sourcePoint" />
-            <mxPoint x="2107.32" y="11130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fIDexPAyapZC-ZXWYycg-58" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#7EA6E0,#EDEDED);" vertex="1" parent="1">
           <mxGeometry x="2621.67" y="10944" width="150.28" height="140.88" as="geometry" />
         </mxCell>
@@ -2527,11 +2515,26 @@
         <mxCell id="fIDexPAyapZC-ZXWYycg-61" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="2674.3900000000003" y="11107.449999999999" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="fIDexPAyapZC-ZXWYycg-62" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 68px; text-wrap-mode: nowrap;&quot;&gt;$$\tilde{\mathcal{S}&#39;_u}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2553.63" y="11271.059999999998" width="233" height="110" as="geometry" />
+        <mxCell id="fIDexPAyapZC-ZXWYycg-62" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 68px;&quot;&gt;$$\tilde{\mathcal{S}&#39;_u}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="2618.27" y="11271.06" width="126.37" height="108.94" as="geometry" />
         </mxCell>
         <mxCell id="fIDexPAyapZC-ZXWYycg-63" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\mathcal{D}_u$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=60;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="2493.9199999999996" y="9267" width="143.53" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-65" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#FFE6D3,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="3007.98" y="10944" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-66" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#FFE6D3,#EDEDED);gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="3007.98" y="10870" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-67" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#FFE6D3,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="3012.4200000000005" y="11113.449999999999" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-68" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="3060.7000000000003" y="11107.449999999999" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fIDexPAyapZC-ZXWYycg-69" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 68px;&quot;&gt;$$\mathcal{D}_u$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3014.28" y="11281.06" width="110.06" height="98.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
