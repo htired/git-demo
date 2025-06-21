@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="6310" dy="617" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3442" dy="-936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9255,8 +9255,8 @@
         <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1475" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="3935.340000000001" y="25358.91" width="80" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1476" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$(K,D)$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="3931.2" y="25038.56" width="170" height="80" as="geometry" />
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1476" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$(K_u,D)$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3716.6" y="25321.670000000002" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1477" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#ffa68a, #ededed);" vertex="1" parent="1">
           <mxGeometry x="4009.7100000000023" y="25597.140000000003" width="150.28" height="140.88" as="geometry" />
@@ -9344,6 +9344,9 @@
             <mxPoint x="4410" y="25687" as="sourcePoint" />
             <mxPoint x="4446" y="25741" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1497" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$(K_v,D)$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3683.5" y="25939" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
