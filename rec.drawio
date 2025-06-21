@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="3442" dy="-936" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4733" dy="-237" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9242,12 +9242,12 @@
           <mxGeometry x="5413.82" y="24084.6" width="171.7" height="148.76" as="geometry" />
         </mxCell>
         <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1472" value="$$S^{ball}_u$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="4118.2300000000005" y="25341.630000000005" width="171" height="110" as="geometry" />
+          <mxGeometry x="4125.780000000001" y="25353.170000000006" width="171" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1473" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=#82b366;gradientColor=#97d077;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1473" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=#97d077;gradientDirection=east;" vertex="1" parent="1">
           <mxGeometry x="3730.4700000000003" y="25291.469999999998" width="150.28" height="140.88" as="geometry" />
         </mxCell>
-        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1474" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1474" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="4016.0000000000005" y="25291.469999999998" width="150.28" height="140.88" as="geometry" />
         </mxCell>
         <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1475" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -9301,8 +9301,23 @@
             <mxPoint x="4115" y="25941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1470" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1470" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#d5e8d4;size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="3815.6700000000005" y="25291.469999999998" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1486" value="$$S^{ball}_u$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="4090.3900000000003" y="25934.770000000008" width="171" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1487" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;size=100;flipH=1;shadow=1;strokeColor=none;gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="3695.08" y="25873.07" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1488" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;size=100;flipH=1;shadow=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3980.6100000000006" y="25873.07" width="150.28" height="140.88" as="geometry" />
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1489" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=80;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="3899.9500000000007" y="25888.510000000002" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="orcCM5Q_Ziam6XRzIWpJ-1490" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=#e1d5e7;size=100;flipH=1;shadow=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3780.2800000000007" y="25873.07" width="150.28" height="140.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
