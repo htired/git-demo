@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="27.0.8">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="4880" dy="560" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3904" dy="-112" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12181,8 +12181,8 @@
         <mxCell id="7BGrWKu3gK2PCEfRql7C-304" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$(|\mathcal{U}|,D)$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="7696.280000000001" y="35050.58" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7BGrWKu3gK2PCEfRql7C-305" value="&lt;div&gt;(a)&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Stochastic Granular&amp;nbsp;&lt;/span&gt;Representation&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Learning (GCRL)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" vertex="1" parent="1">
-          <mxGeometry x="4977.42" y="34892" width="2101.94" height="75.82" as="geometry" />
+        <mxCell id="7BGrWKu3gK2PCEfRql7C-305" value="&lt;div&gt;(a) Dynamic Selective Representation&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Learning (GCRL)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="4941.09" y="34892" width="1933.58" height="75.82" as="geometry" />
         </mxCell>
         <mxCell id="7BGrWKu3gK2PCEfRql7C-306" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$\mathcal{S}^c_u$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="4790.58" y="36364.47" width="151.9" height="82.22" as="geometry" />
@@ -12875,8 +12875,8 @@
         <mxCell id="7BGrWKu3gK2PCEfRql7C-525" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#91C4E1;strokeWidth=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="6499.3899999999985" y="35543.219999999994" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="7BGrWKu3gK2PCEfRql7C-534" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Stochastic Granular Propagation&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="6406.530000000001" y="35728" width="833" height="64" as="geometry" />
+        <mxCell id="7BGrWKu3gK2PCEfRql7C-534" value="&lt;p class=&quot;p1&quot; style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap-mode: nowrap;&quot;&gt;Dynamic Selective Granular Propagation&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6270.88" y="35736" width="1145.47" height="64" as="geometry" />
         </mxCell>
         <mxCell id="7BGrWKu3gK2PCEfRql7C-652" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.51;dx=39.5;notch=0;fillColor=#118ED3;strokeColor=none;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="6172.300000000001" y="35281.81" width="84.09" height="140" as="geometry" />
