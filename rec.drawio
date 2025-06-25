@@ -9638,8 +9638,8 @@
         <mxCell id="7BGrWKu3gK2PCEfRql7C-69" value="PFFN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=75;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="7122.2300000000005" y="36212.16" width="73.69" height="433.32" as="geometry" />
         </mxCell>
-        <mxCell id="7BGrWKu3gK2PCEfRql7C-70" value="&lt;span style=&quot;font-size: 80px;&quot;&gt;Fine-Grained&lt;/span&gt;&amp;nbsp;MOE (FMOE)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="6231.229999999999" y="36814.18" width="916.4" height="75.82" as="geometry" />
+        <mxCell id="7BGrWKu3gK2PCEfRql7C-70" value="&lt;div&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Cross-Grained MOE (CG-MOE)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+          <mxGeometry x="6231.23" y="36814.18" width="1118.77" height="75.82" as="geometry" />
         </mxCell>
         <mxCell id="7BGrWKu3gK2PCEfRql7C-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="7BGrWKu3gK2PCEfRql7C-72" target="7BGrWKu3gK2PCEfRql7C-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -9684,8 +9684,8 @@
         <mxCell id="7BGrWKu3gK2PCEfRql7C-83" value="Cross Attention" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=65;fillColor=#f8cecc;strokeColor=#b85450;spacing=2;" parent="1" vertex="1">
           <mxGeometry x="6952.2" y="37051" width="440.25" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="7BGrWKu3gK2PCEfRql7C-84" value="&lt;span style=&quot;font-size: 80px;&quot;&gt;Differential&lt;/span&gt;&amp;nbsp;Quantization (DQ)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="4534.280000000001" y="36788.43000000001" width="977.33" height="82.12" as="geometry" />
+        <mxCell id="7BGrWKu3gK2PCEfRql7C-84" value="&lt;div&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Granular Differential Quantization (GDQ)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+          <mxGeometry x="4215.87" y="36792.47" width="1489.61" height="82.12" as="geometry" />
         </mxCell>
         <mxCell id="7BGrWKu3gK2PCEfRql7C-92" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SRS&amp;nbsp;&lt;/span&gt;Backbone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="4053.88" y="35330.93" width="100.79" height="536" as="geometry" />
@@ -9750,8 +9750,8 @@
             <mxPoint x="6482.839999999999" y="36326.78" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7BGrWKu3gK2PCEfRql7C-155" value="FMOE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=75;fillColor=#FFF5E6;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="6411.090000000001" y="36194.72" width="287" height="131.06" as="geometry" />
+        <mxCell id="7BGrWKu3gK2PCEfRql7C-155" value="CG-MOE" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=75;fillColor=#FFF5E6;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="6411.09" y="36194.72" width="335.91" height="131.06" as="geometry" />
         </mxCell>
         <mxCell id="7BGrWKu3gK2PCEfRql7C-156" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="7BGrWKu3gK2PCEfRql7C-158" target="7BGrWKu3gK2PCEfRql7C-163" edge="1">
           <mxGeometry relative="1" as="geometry">
