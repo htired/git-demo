@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
   <diagram name="第 1 页" id="DjKE4tLTJ360DlwCf7XT">
-    <mxGraphModel dx="6717" dy="650" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="5757" dy="100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10808,8 +10808,8 @@
         <mxCell id="53Z1P0IyMuWq5CCHp2J6-90" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;Perturb&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="4579.33" y="36355" width="188.18" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="53Z1P0IyMuWq5CCHp2J6-91" value="(b) Robust&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Coarse-Grained&amp;nbsp;&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Fusion (CPF)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="4049.6000000000004" y="36017" width="1473.16" height="75.82" as="geometry" />
+        <mxCell id="53Z1P0IyMuWq5CCHp2J6-91" value="(b) Robust&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Coarse-Grained&lt;/span&gt;&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Fusion (RCF)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+          <mxGeometry x="4087.1600000000003" y="36023" width="1473.16" height="75.82" as="geometry" />
         </mxCell>
         <mxCell id="53Z1P0IyMuWq5CCHp2J6-92" value="$$E^{srs}_v$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="4265.58" y="36624.71" width="108.85" height="97.29" as="geometry" />
