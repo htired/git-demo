@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="18dgHpQcgiP_lEkp26YR">
-    <mxGraphModel dx="4700" dy="4043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="5100" dy="4043" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,12 @@
         </mxCell>
         <mxCell id="8pbLJv18eXbvrvP_E2I8-14" value="$$\alpha$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=82;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-710" y="1072" width="103" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="8pbLJv18eXbvrvP_E2I8-15" value="KD" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=82;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1822" y="335" width="103" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="8pbLJv18eXbvrvP_E2I8-16" value="KD_ball" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=82;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1849" y="1903" width="310" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
