@@ -10074,7 +10074,7 @@
         <mxCell id="_JYwrJSjclA4jGmztjbr-562" value="PFFN" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=75;fillColor=#dae8fc;strokeColor=#6c8ebf;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="7084.47" y="36289.16" width="73.69" height="433.32" as="geometry" />
         </mxCell>
-        <mxCell id="_JYwrJSjclA4jGmztjbr-563" value="&lt;div&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Multi-Granular MOE (MG-MOE)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+        <mxCell id="_JYwrJSjclA4jGmztjbr-563" value="&lt;div&gt;&lt;span style=&quot;font-size: 80px;&quot;&gt;Fine-Grained MOE (MG-MOE)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=70;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="4251.5599999999995" y="36833.469999999994" width="1220.83" height="75.82" as="geometry" />
         </mxCell>
         <mxCell id="_JYwrJSjclA4jGmztjbr-564" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=6;" parent="1" source="_JYwrJSjclA4jGmztjbr-565" target="_JYwrJSjclA4jGmztjbr-567" edge="1">
@@ -10337,7 +10337,7 @@
         <mxCell id="_JYwrJSjclA4jGmztjbr-640" value="(a)&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dual-View Granular Behavior Modeling&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="4830.09" y="35249" width="1502.03" height="75.82" as="geometry" />
         </mxCell>
-        <mxCell id="_JYwrJSjclA4jGmztjbr-641" value="&lt;div&gt;(c) Muti&lt;span style=&quot;background-color: transparent;&quot;&gt;-Granular&amp;nbsp;&lt;/span&gt;Differential Fusion (FDF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+        <mxCell id="_JYwrJSjclA4jGmztjbr-641" value="&lt;div&gt;(c) Fine&lt;span style=&quot;background-color: transparent;&quot;&gt;-Grained&amp;nbsp;&lt;/span&gt;Differential Fusion (FDF)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
           <mxGeometry x="5830.24" y="36121.18" width="1566.83" height="87.82" as="geometry" />
         </mxCell>
         <mxCell id="_JYwrJSjclA4jGmztjbr-642" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#f7c1bd, #ededed);size=100;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#E97132,#EDEDED);" parent="1" vertex="1">
@@ -10942,8 +10942,8 @@
         <mxCell id="_JYwrJSjclA4jGmztjbr-824" value="&lt;p style=&quot;text-align: start;&quot; class=&quot;p1&quot;&gt;Perturb&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=60;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="4496.57" y="36424" width="188.18" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="_JYwrJSjclA4jGmztjbr-825" value="(b) Robust&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Multi-Granular&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Fusion (RMGF)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="4004.4" y="36115" width="1473.16" height="75.82" as="geometry" />
+        <mxCell id="_JYwrJSjclA4jGmztjbr-825" value="(b) Robust&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Coarse-Grained&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Fusion (RMGF)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=80;fillColor=none;strokeColor=none;fontStyle=3" parent="1" vertex="1">
+          <mxGeometry x="3898" y="36115" width="1579.56" height="75.82" as="geometry" />
         </mxCell>
         <mxCell id="_JYwrJSjclA4jGmztjbr-826" value="$$E^{srs}_v$$" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="4182.82" y="36670.71" width="108.85" height="97.29" as="geometry" />
