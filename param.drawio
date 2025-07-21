@@ -685,6 +685,24 @@
         <mxCell id="BCydkDkgI7iqmUiCRVng-58" value="&lt;font&gt;NDCG@10&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=75;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="5265" y="12009" width="375" height="102" as="geometry" />
         </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-59" value="$$\alpha$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;" vertex="1" parent="1">
+          <mxGeometry x="6207" y="10900" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-60" value="$$\beta$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;" vertex="1" parent="1">
+          <mxGeometry x="7067.33" y="10902" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-61" value="$$\zeta$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;" vertex="1" parent="1">
+          <mxGeometry x="6204" y="11448" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-62" value="$$\rho$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="7065.33" y="11450" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-63" value="$$L$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;" vertex="1" parent="1">
+          <mxGeometry x="6205" y="12136.5" width="63" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="BCydkDkgI7iqmUiCRVng-64" value="$$p$$" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontFamily=Times New Roman;fontSize=60;" vertex="1" parent="1">
+          <mxGeometry x="7065.33" y="12121" width="63" height="57" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
