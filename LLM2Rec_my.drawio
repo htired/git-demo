@@ -401,7 +401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-206" value="Xbox 360 Versus Controller" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=30;fillColor=#FCF1EA;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670.4" y="1358" width="240.94" height="75" as="geometry" />
+          <mxGeometry x="663.4" y="1358" width="240.94" height="75" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-209" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;LLM&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=45;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="641" y="691" width="139" height="53" as="geometry" />
@@ -420,6 +420,18 @@
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-220" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;Shuffle&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=32;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="863" y="1411" width="143" height="53.09" as="geometry" />
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-222" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.459;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-206">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="777.8700000000003" y="1358" as="sourcePoint" />
+            <mxPoint x="772" y="1261.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-223" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;entryX=0.789;entryY=0.996;entryDx=0;entryDy=0;exitX=0.425;exitY=0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="SlmCnSXpyHfHbI5BVayt-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1055.5295" y="1356.9650000000001" as="sourcePoint" />
+            <mxPoint x="1055.5" y="1265.4700000000003" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
