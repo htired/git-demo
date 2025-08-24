@@ -160,11 +160,20 @@
         <mxCell id="SlmCnSXpyHfHbI5BVayt-88" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;fontFamily=Times New Roman;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="141.06" y="894.2900000000001" width="60" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="SlmCnSXpyHfHbI5BVayt-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=70;entryDy=55;entryPerimeter=0;curved=1;strokeWidth=3;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-49" target="SlmCnSXpyHfHbI5BVayt-86">
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=3;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-49" target="SlmCnSXpyHfHbI5BVayt-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-90" value="Weighted&amp;nbsp;&lt;div&gt;Sum&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fontFamily=Times New Roman;fillColor=#DAE8FC;strokeColor=none;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="200" y="857.59" width="168.23" height="63.25" as="geometry" />
+          <mxGeometry x="200" y="862.98" width="168.23" height="63.25" as="geometry" />
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-92" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="799.22" width="80" height="190.78" as="geometry" />
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-93" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-92" target="SlmCnSXpyHfHbI5BVayt-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="1147" as="sourcePoint" />
+            <mxPoint x="357" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
