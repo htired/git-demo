@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.0">
   <diagram name="第 1 页" id="T9pxBE5IBgKllSfxurPP">
-    <mxGraphModel dx="1846" dy="816" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2275" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -232,14 +232,14 @@
             <mxPoint x="-140" y="1440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SlmCnSXpyHfHbI5BVayt-127" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\mathbb{E}_{p(\mathbf{c}|\mathbf{e})}[c]$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="334" y="1102.91" width="71" height="42.55" as="geometry" />
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-127" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\mathbb{E}_{p(\mathbf{c}|\mathbf{e})}[c]$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=23;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="323" y="1113.98" width="71" height="42.55" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-130" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\mathbf{c}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="110.26" y="1173.98" width="40.94" height="29.29" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-131" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=light-dark(#FFE6D3,#EDEDED);size=40;flipH=1;shadow=1;strokeColor=none;gradientColor=light-dark(#7EA6E0,#EDEDED);gradientDirection=east;" vertex="1" parent="1">
-          <mxGeometry x="328" y="1032.9099999999999" width="70" height="70" as="geometry" />
+          <mxGeometry x="328" y="1039.9099999999999" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$p(\mathbf{c}|\mathbf{e})$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="337.25" y="1277.96" width="71" height="42.55" as="geometry" />
