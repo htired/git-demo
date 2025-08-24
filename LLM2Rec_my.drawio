@@ -495,17 +495,17 @@
         <mxCell id="SlmCnSXpyHfHbI5BVayt-279" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$${T}_{|\mathcal{V}|}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=40;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1560" y="1403.65" width="63" height="44.68" as="geometry" />
         </mxCell>
-        <mxCell id="SlmCnSXpyHfHbI5BVayt-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-280" target="SlmCnSXpyHfHbI5BVayt-269">
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-280" target="SlmCnSXpyHfHbI5BVayt-269">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-280" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1393" y="1354.4" width="172" height="39" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-285" value="SRS&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Backbone&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=40;fontFamily=Times New Roman;fillColor=#DAE8FC;strokeColor=none;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="1338" y="886.9999999999999" width="270.5" height="59.24" as="geometry" />
+          <mxGeometry x="1340.79" y="909.9999999999999" width="270.5" height="59.24" as="geometry" />
         </mxCell>
-        <mxCell id="SlmCnSXpyHfHbI5BVayt-287" value="Adapter" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;fontFamily=Times New Roman;fontSize=30;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="1402.7099999999998" y="782.0400000000001" width="157.29" height="45.93" as="geometry" />
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-287" value="Adapter" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;fontFamily=Times New Roman;fontSize=30;fillColor=light-dark(#f7cdcc, #3b394a);strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="1399.7099999999998" y="1039.45" width="157.29" height="45.93" as="geometry" />
         </mxCell>
         <mxCell id="SlmCnSXpyHfHbI5BVayt-296" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Embedding&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Layer&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#e6f1e5, #1f2f1e);dashed=1;dashPattern=8 8;strokeColor=none;fontSize=30;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1367.35" y="1135" width="222.01" height="75.51" as="geometry" />
