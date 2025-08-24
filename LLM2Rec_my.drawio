@@ -244,6 +244,24 @@
         <mxCell id="SlmCnSXpyHfHbI5BVayt-132" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$p(\mathbf{c}|\mathbf{e})$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="337.25" y="1277.96" width="71" height="42.55" as="geometry" />
         </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-135" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="238.2" y="1239.46" as="sourcePoint" />
+            <mxPoint x="294.2" y="1266.46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-137" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#dae8fc;gradientColor=#7ea6e0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="372.64" y="1221.13" as="sourcePoint" />
+            <mxPoint x="372.32" y="1159.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-138" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#d5e8d4;gradientColor=light-dark(#97b2de, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240.32" y="1111.46" as="sourcePoint" />
+            <mxPoint x="315" y="1084" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
