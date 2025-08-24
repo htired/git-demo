@@ -97,6 +97,21 @@
         <mxCell id="SlmCnSXpyHfHbI5BVayt-47" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;$${h}_{i}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="130" y="1044" width="104.06" height="76" as="geometry" />
         </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-22" target="SlmCnSXpyHfHbI5BVayt-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="1259" as="sourcePoint" />
+            <mxPoint x="60" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-49" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 50px;&quot;&gt;Top-k&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=80;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="867.12" width="104.06" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="SlmCnSXpyHfHbI5BVayt-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100.28;exitDy=50;strokeWidth=3;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="SlmCnSXpyHfHbI5BVayt-43" target="SlmCnSXpyHfHbI5BVayt-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="920" as="sourcePoint" />
+            <mxPoint x="479" y="967" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
