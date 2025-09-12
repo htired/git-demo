@@ -1230,7 +1230,7 @@
         <mxCell id="sGh-375ncC-138iNvW6e-280" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="sGh-375ncC-138iNvW6e-240" target="sGh-375ncC-138iNvW6e-278">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sGh-375ncC-138iNvW6e-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sGh-375ncC-138iNvW6e-251">
+        <mxCell id="sGh-375ncC-138iNvW6e-281" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="sGh-375ncC-138iNvW6e-251" target="sGh-375ncC-138iNvW6e-312">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1506.7600000000002" y="2224.5400000000004" as="sourcePoint" />
             <mxPoint x="1545.7000000000007" y="2224.12" as="targetPoint" />
@@ -1245,7 +1245,7 @@
             <mxPoint x="1283.15" y="2365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGh-375ncC-138iNvW6e-286" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sGh-375ncC-138iNvW6e-239">
+        <mxCell id="sGh-375ncC-138iNvW6e-286" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" source="sGh-375ncC-138iNvW6e-239" target="sGh-375ncC-138iNvW6e-312">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1500.7600000000002" y="2540" as="sourcePoint" />
             <mxPoint x="1545.7000000000007" y="2365.29" as="targetPoint" />
@@ -1315,7 +1315,7 @@
           <mxGeometry x="1079.7599999999998" y="1929.5" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="sGh-375ncC-138iNvW6e-312" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$\mathcal{L}_{Rec}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=30;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="2350" width="81" height="51" as="geometry" />
+          <mxGeometry x="1516.81" y="2263.2999999999997" width="81" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
