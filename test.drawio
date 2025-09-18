@@ -7,6 +7,9 @@
         <mxCell id="J960qSndon-mCkZW82JH-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.217;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-1" target="J960qSndon-mCkZW82JH-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-1" target="J960qSndon-mCkZW82JH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J960qSndon-mCkZW82JH-1" value="SASRec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="80" height="40" as="geometry" />
         </mxCell>
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="J960qSndon-mCkZW82JH-16" value="$$L_{cl}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-18" value="user_embed:[dim]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="125" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
