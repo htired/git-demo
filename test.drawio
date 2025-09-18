@@ -298,6 +298,18 @@
         <mxCell id="J960qSndon-mCkZW82JH-163" value="(shffuled)title, item_embed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="920" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.524;exitY=0.957;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.183;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-162" target="J960qSndon-mCkZW82JH-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="1010" as="sourcePoint" />
+            <mxPoint x="730.0344827586209" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.506;exitY=0.934;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-163" target="J960qSndon-mCkZW82JH-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="1060" as="sourcePoint" />
+            <mxPoint x="804" y="1208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
