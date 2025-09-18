@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="28.2.1">
   <diagram name="第 1 页" id="93aCTpJLAL_9xejAEjMj">
-    <mxGraphModel dx="1665" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1500" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,14 +40,32 @@
         <mxCell id="J960qSndon-mCkZW82JH-16" value="$$L_{cl}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="155" y="320" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-18" target="J960qSndon-mCkZW82JH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J960qSndon-mCkZW82JH-18" value="user_embed:[dim]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="125" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J960qSndon-mCkZW82JH-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-20" target="J960qSndon-mCkZW82JH-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-20" target="J960qSndon-mCkZW82JH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="J960qSndon-mCkZW82JH-20" value="item_embeds [5,6,7,8]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="65" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-22" value="concat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J960qSndon-mCkZW82JH-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="J960qSndon-mCkZW82JH-22" target="J960qSndon-mCkZW82JH-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="290" as="sourcePoint" />
+            <mxPoint x="30" y="335" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="285" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
