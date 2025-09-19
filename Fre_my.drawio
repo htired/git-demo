@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.3">
   <diagram name="第 1 页" id="59JIxrFA7eB-XWToM2pj">
-    <mxGraphModel dx="3647" dy="2140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3177" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -271,7 +271,7 @@
         <mxCell id="e9sirYudQyoO_yF3ky2Y-69" value="Mix Layer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=55;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="26.5" y="3380" width="1193.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="e9sirYudQyoO_yF3ky2Y-81" value="Sequential Convolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=45;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="e9sirYudQyoO_yF3ky2Y-81" value="SC Layer" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=45;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="725.4" y="2952" width="444.6" height="82" as="geometry" />
         </mxCell>
         <mxCell id="e9sirYudQyoO_yF3ky2Y-83" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0.142;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="zrwGf_qTKrh_B8pIaa0E-1" target="e9sirYudQyoO_yF3ky2Y-4" edge="1">
@@ -306,6 +306,9 @@
         </mxCell>
         <mxCell id="nnPpWpVU6yYITT_zUeni-2" value="Conv1d" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=45;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="2950" width="261" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="nnPpWpVU6yYITT_zUeni-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$i\text{-}th$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;fillColor=none;strokeColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="759.25" y="2966.5" width="109.5" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
