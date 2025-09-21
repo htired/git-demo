@@ -355,21 +355,6 @@
         <mxCell id="8je5Y2yP_XP7ALAVmUlr-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMTAzLjMwMTY2NjI1OTc2NTYyIC0wLjAwMDAzMDUxNzU3ODEyNSA4MjAuNTQ2MjY0NjQ4NDM3NSAxMDI0IiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjE2MC4yNjI5NDIzMTQxNDc5NSIgY2xhc3M9Imljb24iPjxwYXRoIGZpbGw9IiNmZjAwMDAiIGQ9Ik03NjggMzMyLjhsLTc2LjggNzYuOGMwIDAgMC0zMDcuMi0yNTYtNDA5LjYgMCAwLTI1LjYgMjgxLjYtMTUzLjYgMzg0cy0zODQgNDA5LjYgMTI4IDY0MGMwIDAtMjU2LTI4MS42IDc2LjgtNDg2LjQgMCAwLTI1LjYgMTAyLjQgMTAyLjQgMjA0LjhzMCAyODEuNiAwIDI4MS42UzEyMDMuMiA4NzAuNCA3NjggMzMyLjh6Ii8+PC9zdmc+;" parent="1" vertex="1">
           <mxGeometry x="371" y="3039.23" width="39.82" height="49.77" as="geometry" />
         </mxCell>
-        <mxCell id="pKiUQIQ_PrdLWb81UoM8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKiUQIQ_PrdLWb81UoM8-1" target="pKiUQIQ_PrdLWb81UoM8-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pKiUQIQ_PrdLWb81UoM8-1" value="user-embed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="3177.5" width="290" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pKiUQIQ_PrdLWb81UoM8-2" value="MLP(share)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="3027.5" width="280" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pKiUQIQ_PrdLWb81UoM8-8" value="一个用户序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-365" y="3380" width="320" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="pKiUQIQ_PrdLWb81UoM8-9" value="相似用户/物品" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="3500" width="340" height="70" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
