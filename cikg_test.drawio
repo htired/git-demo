@@ -37,6 +37,21 @@
             <mxPoint x="120" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3H5P8vp8lTRdKF1x8m5F-11" value="use2r：（上班族-体育生）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3H5P8vp8lTRdKF1x8m5F-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.767;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3H5P8vp8lTRdKF1x8m5F-11" target="3H5P8vp8lTRdKF1x8m5F-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="270" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3H5P8vp8lTRdKF1x8m5F-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.776;exitY=-0.133;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3H5P8vp8lTRdKF1x8m5F-11" target="3H5P8vp8lTRdKF1x8m5F-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="392" as="sourcePoint" />
+            <mxPoint x="313" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
