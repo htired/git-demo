@@ -28,6 +28,15 @@
         <mxCell id="3H5P8vp8lTRdKF1x8m5F-7" value="某个兴趣（只有一个节点）" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="530" y="190" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="3H5P8vp8lTRdKF1x8m5F-9" value="use2r：（篮球-上班族）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="300" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3H5P8vp8lTRdKF1x8m5F-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="3H5P8vp8lTRdKF1x8m5F-9" target="3H5P8vp8lTRdKF1x8m5F-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="480" as="sourcePoint" />
+            <mxPoint x="120" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
