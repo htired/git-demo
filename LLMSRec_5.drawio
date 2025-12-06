@@ -880,7 +880,7 @@
           <mxGeometry height="48" width="42.16" x="797.8399999999999" y="2500" as="geometry" />
         </mxCell>
         <mxCell id="84fPrlmOxigtr5kK17mG-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=26;fillColor=#dae8fc;strokeColor=#6c8ebf;rotation=0;" value="Meta Network" vertex="1">
-          <mxGeometry height="50" width="200" x="-390" y="2420" as="geometry" />
+          <mxGeometry height="78" width="130" x="-460" y="2218" as="geometry" />
         </mxCell>
         <mxCell id="84fPrlmOxigtr5kK17mG-18" parent="1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.13837920489296682;arcSize=10;flipV=1;labelPosition=center;align=center;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontFamily=Comic Sans MS;fontSize=25;" value="&lt;span&gt;$$f^{C}_{I}$$&lt;/span&gt;" vertex="1">
           <mxGeometry height="40" width="147.15" x="233.78" y="2452" as="geometry" />
@@ -892,6 +892,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="692" y="2640" as="sourcePoint" />
             <mxPoint x="640" y="2640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="84fPrlmOxigtr5kK17mG-22" edge="1" parent="1" source="84fPrlmOxigtr5kK17mG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.184;entryY=0.999;entryDx=0;entryDy=0;strokeWidth=3;entryPerimeter=0;" target="giC6mHA7uZge9bho7pz4-189">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-128" y="2690" as="sourcePoint" />
+            <mxPoint x="-180" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
