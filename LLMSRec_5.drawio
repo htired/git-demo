@@ -1488,6 +1488,12 @@
         <mxCell id="1LN2Z5QZm0hFggx8tZsc-228" parent="1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;fontFamily=Times New Roman;fontSize=30;fillColor=#f8cecc;strokeColor=#b85450;" value="$$f_I$$" vertex="1">
           <mxGeometry height="43.91" width="153.96" x="721.45" y="3050" as="geometry" />
         </mxCell>
+        <mxCell id="1LN2Z5QZm0hFggx8tZsc-229" edge="1" parent="1" source="1LN2Z5QZm0hFggx8tZsc-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" target="1LN2Z5QZm0hFggx8tZsc-228">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="3043" as="sourcePoint" />
+            <mxPoint x="930" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
