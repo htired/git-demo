@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.2.7">
   <diagram name="第 1 页" id="IHS28jS8RW3atL2lQph2">
-    <mxGraphModel dx="6387" dy="3430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5190" dy="2573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,6 +228,12 @@
         </mxCell>
         <mxCell id="LbsLayc10oF7PirA5ejG-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontSize=60;" value="&lt;font&gt;&lt;span&gt;[ItemOut]&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="10480" y="3230" as="geometry" />
+        </mxCell>
+        <mxCell id="LbsLayc10oF7PirA5ejG-27" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=78.75;endSize=15.2;width=32.5;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="LbsLayc10oF7PirA5ejG-23" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10140" y="3310" as="sourcePoint" />
+            <mxPoint x="10327" y="3150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
