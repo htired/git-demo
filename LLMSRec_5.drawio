@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.2.0">
   <diagram name="第 1 页" id="KrCJsHiHE3rPCJTt2qRQ">
-    <mxGraphModel dx="2053" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2316" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1137,7 +1137,7 @@
             <mxPoint x="-118.63866000000014" y="3334.19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1LN2Z5QZm0hFggx8tZsc-42" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$x_{u/v}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;strokeColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1">
+        <mxCell id="1LN2Z5QZm0hFggx8tZsc-42" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;font&gt;$$x_{u}$$&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;strokeColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-318.89" y="3517.25" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1LN2Z5QZm0hFggx8tZsc-43" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;This user has made a series of purchases...:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Item:&lt;/span&gt;{&amp;lt;No&amp;gt;, &amp;lt;Time&amp;gt; &amp;lt;Title&amp;gt;,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;CF&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;Emb&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;text embedding:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;Text&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 0, 0);&quot;&gt;&amp;nbsp;Emb&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;}&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;span style=&quot;forced-color-adjust: none;&quot;&gt;Item: ...&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
@@ -1222,7 +1222,7 @@
             <mxRectangle width="40" height="37" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1LN2Z5QZm0hFggx8tZsc-70" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$e_{u/v}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;strokeColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1">
+        <mxCell id="1LN2Z5QZm0hFggx8tZsc-70" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$e_{u}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=none;strokeColor=none;fontFamily=Comic Sans MS;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="98.89" y="3523" width="38.3" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1LN2Z5QZm0hFggx8tZsc-76" value="" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-180;" parent="1" vertex="1">
