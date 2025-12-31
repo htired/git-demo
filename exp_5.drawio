@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="qGwinYd_XVkOcPTIJ-HH">
-    <mxGraphModel dx="8270" dy="5550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="6616" dy="4440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="mip_PBMthu6hTVa-ROTn-22" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=130;fontFamily=Times New Roman;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: steelblue; font-weight: bold; font-style: italic;&quot;&gt;Instruction&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="650" x="340" y="8320" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-23" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;Positive&lt;/i&gt;&lt;/b&gt;: Based on the provided&lt;font&gt;&lt;font style=&quot;color: rgb(68, 99, 59);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(96, 138, 80);&quot;&gt;[ATTRIBUTES]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;assist me in summarizing which types of users might &lt;font style=&quot;color: rgb(255, 9, 9);&quot;&gt;enjoy&lt;/font&gt; a specific sports product&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="mip_PBMthu6hTVa-ROTn-23" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;Prefix Prompt&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="390" width="2899.5" x="390.5" y="8530" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
