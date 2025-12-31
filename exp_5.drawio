@@ -76,6 +76,84 @@
         <mxCell id="C11J4Z2lnfvdfNavA2cX-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;fontSize=17;rotation=-90;fontStyle=1" value="NDCG@5" vertex="1">
           <mxGeometry height="20" width="58.5" x="1588" y="1659" as="geometry" />
         </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFDF6;strokeColor=#969696;align=left;fontSize=80;strokeWidth=16;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="2750" width="3390" x="330" y="4420" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-2" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=130;fontFamily=Times New Roman;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;color: steelblue; font-weight: bold; font-style: italic;&quot;&gt;Instruction&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="650" x="390" y="4440" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-3" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;Positive&lt;/i&gt;&lt;/b&gt;: Based on the provided&lt;font&gt;&lt;font style=&quot;color: rgb(68, 99, 59);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(96, 138, 80);&quot;&gt;[ATTRIBUTES]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;assist me in summarizing which types of users might &lt;font style=&quot;color: rgb(255, 9, 9);&quot;&gt;enjoy&lt;/font&gt; a specific sports product&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="390" width="2899.5" x="440.5" y="4650" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-4" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;font style=&quot;color: rgb(96, 138, 80);&quot;&gt;[POSITIVE]&lt;/font&gt;&lt;font&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Users who enjoy staying hydrated and adding flavor to their water would appreciate this infusion...&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="2980" x="700" y="6290" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-5" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;font style=&quot;color: rgb(96, 138, 80);&quot;&gt;[NEGATIVE]&lt;/font&gt;&lt;font&gt;:&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Users who prefer durable, stainless steel or glass bottles might dislike this product due to its plastic construction....&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="3000" x="703" y="6620" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-6" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=130;fontFamily=Times New Roman;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font color=&quot;#4682b4&quot;&gt;&lt;b&gt;&lt;i&gt;Response&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="540" x="380" y="6090" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-7" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;font style=&quot;background-color: transparent; color: rgb(96, 138, 80);&quot;&gt;[FEATURE]&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&amp;nbsp;&lt;/span&gt;Portable and convenient for sports activities.&lt;/div&gt;" vertex="1">
+          <mxGeometry height="181" width="2894" x="699.1300000000001" y="6990" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-8" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;font style=&quot;color: rgb(96, 138, 80);&quot;&gt;[ATTRIBUTES]&lt;/font&gt;&lt;font&gt;: &amp;lt;Title&amp;gt;, &amp;lt;Discription&amp;gt; &amp;lt;Brand&amp;gt;, &amp;lt;Categories&amp;gt;...&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="2900" x="460" y="5870" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="460" y="4960" as="sourcePoint" />
+            <mxPoint x="3510" y="4950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-10" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=130;fontFamily=Times New Roman;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&lt;br/&gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&lt;br/&gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;font color=&quot;#4682b4&quot;&gt;&lt;b&gt;&lt;i&gt;Information&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="150" width="747.5" x="370" y="5680" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-11" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;Feature&lt;/i&gt;&lt;/b&gt;: Based on the provided&lt;font&gt;&lt;font style=&quot;color: rgb(68, 99, 59);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(96, 138, 80);&quot;&gt;[ATTRIBUTES]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(96, 138, 80); background-color: transparent;&quot;&gt;[POSITIVE]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(96, 138, 80); background-color: transparent;&quot;&gt;[NEGATIVE]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;assist me in identifying the possible&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 9, 9);&quot;&gt;features&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;of a specific sports product.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="3199.75" x="450.25" y="5330" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-12" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;b&gt;&lt;i&gt;Negtive&lt;/i&gt;&lt;/b&gt;: Based on the provided&lt;font&gt;&lt;font style=&quot;color: rgb(68, 99, 59);&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(96, 138, 80);&quot;&gt;[ATTRIBUTES]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(96, 138, 80); background-color: transparent;&quot;&gt;[POSITIVE]&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;assist me in summarizing&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;which types of users might &lt;/span&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(255, 9, 9), rgb(255, 255, 255));&quot;&gt;dislike&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; a specific sports product&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-family: Helvetica;&quot;&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="3079.75" x="450.25" y="4990" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="450.25" y="5300" as="sourcePoint" />
+            <mxPoint x="3500.25" y="5290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-14" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440.5" y="6590" as="sourcePoint" />
+            <mxPoint x="3500.25" y="6580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-15" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="440.5" y="6920" as="sourcePoint" />
+            <mxPoint x="3500.25" y="6910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-16" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=5;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="6040" as="sourcePoint" />
+            <mxPoint x="3660" y="6040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-17" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=5;dashed=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="5610" as="sourcePoint" />
+            <mxPoint x="3670" y="5610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-18" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 110px;&quot;&gt;$$\mathcal{I}^{pos}_{se}$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="320" width="280" x="460" y="6240" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-19" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 110px;&quot;&gt;$$\mathcal{I}^{neg}_{se}$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="320" width="280" x="460" y="6590" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-20" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Times New Roman&amp;quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 110px;&quot;&gt;$$\mathcal{I}_{se}$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="320" width="280" x="460" y="6870" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
