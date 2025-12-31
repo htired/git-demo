@@ -167,7 +167,7 @@
           <mxGeometry height="290" width="2099.5" x="383.5" y="9062" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-42" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Suffix Prompt: &lt;/i&gt;Based on this sequence of purchases, generate user representation token:&lt;font style=&quot;color: rgb(51, 153, 255);&quot;&gt;[UserOut]&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="300" width="2329.5" x="380" y="10110" as="geometry" />
+          <mxGeometry height="300" width="2329.5" x="380" y="10250" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -180,15 +180,21 @@
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="240" y="10110" as="sourcePoint" />
-            <mxPoint x="2770" y="10100" as="targetPoint" />
+            <mxPoint x="240" y="10250" as="sourcePoint" />
+            <mxPoint x="2770" y="10240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-47" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title, CF Embedding])&lt;/div&gt;" vertex="1">
+        <mxCell id="mip_PBMthu6hTVa-ROTn-47" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title, &lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;CF Embedding&lt;/font&gt;])&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="2099.5" x="390.5" y="9462" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-48" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="129" width="958.25" x="1055" y="9330" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-49" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title, &lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;CF Embedding&lt;/font&gt;, &lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;Text Embedding&lt;/font&gt;])&lt;/div&gt;" vertex="1">
+          <mxGeometry height="290" width="2288" x="382" y="9820" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-50" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="300" x="1340" y="9688" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
