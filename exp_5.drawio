@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="qGwinYd_XVkOcPTIJ-HH">
-    <mxGraphModel dx="7745" dy="5550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="10327" dy="7400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,8 +175,8 @@
             <mxPoint x="2630" y="8707" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-45" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;TALLRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="471" x="1204.75" y="8742" as="geometry" />
+        <mxCell id="mip_PBMthu6hTVa-ROTn-45" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(a) TALLRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="655.75" x="1123" y="8742" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-46" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;entryX=1.002;entryY=0.848;entryDx=0;entryDy=0;entryPerimeter=0;" target="mip_PBMthu6hTVa-ROTn-21" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -187,14 +187,14 @@
         <mxCell id="mip_PBMthu6hTVa-ROTn-47" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title, &lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;CF Embedding&lt;/font&gt;]).&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="2099.5" x="390.5" y="9330" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-48" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="958.25" x="1055" y="9198" as="geometry" />
+        <mxCell id="mip_PBMthu6hTVa-ROTn-48" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(b) LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="1195" x="950" y="9180" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-49" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title &lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;&amp;lt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 102, 102);&quot;&gt;CF Embedding&amp;gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;text embedding&lt;/span&gt;&lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&amp;lt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 153, 51);&quot;&gt;Text Embedding&amp;gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;]).&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="2288" x="382" y="9748" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-50" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="300" x="1340" y="9616" as="geometry" />
+        <mxCell id="mip_PBMthu6hTVa-ROTn-50" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(c) Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="440" x="1247" y="9616" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFDF6;strokeColor=#969696;align=left;fontSize=80;strokeWidth=16;" value="&lt;div style=&quot;forced-color-adjust: none;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="2397" width="2420" x="210" y="10910" as="geometry" />
@@ -217,9 +217,6 @@
             <mxPoint x="2620" y="11434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-57" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;TALLRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="471" x="1194.75" y="11469" as="geometry" />
-        </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-58" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;dashed=1;dashPattern=8 8;entryX=1.002;entryY=0.848;entryDx=0;entryDy=0;entryPerimeter=0;" target="mip_PBMthu6hTVa-ROTn-51" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="230" y="12948" as="sourcePoint" />
@@ -229,14 +226,17 @@
         <mxCell id="mip_PBMthu6hTVa-ROTn-59" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information:&amp;nbsp;&lt;/i&gt;&quot;Title&quot;:&amp;nbsp;&lt;div&gt;Item Title&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: rgb(255, 102, 102);&quot;&gt;&amp;lt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 102, 102);&quot;&gt;CF Embedding&amp;gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;,&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="223" width="1819.5" x="590" y="12018" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-60" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="958.25" x="1045" y="11863" as="geometry" />
-        </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-61" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information:&amp;nbsp;&lt;/i&gt;&quot;Title&quot;:&amp;nbsp;&lt;div&gt;Item Title&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: rgb(255, 102, 102);&quot;&gt;&amp;lt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 102, 102);&quot;&gt;CF Embedding&amp;gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;,&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;text embedding&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 153, 51), rgb(169, 81, 0));&quot;&gt;&amp;lt;&lt;/span&gt;&lt;font style=&quot;background-color: transparent; color: rgb(255, 153, 51);&quot;&gt;Text Embedding&amp;gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent; color: rgb(0, 0, 0);&quot;&gt;,&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="405" width="1758" x="601" y="12458" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-62" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="129" width="300" x="1330" y="12311" as="geometry" />
+        <mxCell id="mip_PBMthu6hTVa-ROTn-64" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(a) TALLRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="655.75" x="1083" y="11490" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-65" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(b) LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="1195" x="910" y="11862" as="geometry" />
+        </mxCell>
+        <mxCell id="mip_PBMthu6hTVa-ROTn-66" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;(c) Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="129" width="440" x="1207" y="12315" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
