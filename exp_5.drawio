@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.2.9">
   <diagram name="第 1 页" id="qGwinYd_XVkOcPTIJ-HH">
-    <mxGraphModel dx="7745" dy="5550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="6196" dy="4440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="mip_PBMthu6hTVa-ROTn-48" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;LLaRA/LLM-SRec&lt;/span&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="129" width="958.25" x="1055" y="9330" as="geometry" />
         </mxCell>
-        <mxCell id="mip_PBMthu6hTVa-ROTn-49" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;CF Embedding&lt;/font&gt;, &lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;Text Embedding&lt;/font&gt;])&lt;/div&gt;" vertex="1">
+        <mxCell id="mip_PBMthu6hTVa-ROTn-49" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=100;fontFamily=Times New Roman;" value="&lt;div&gt;&lt;i style=&quot;font-weight: bold;&quot;&gt;Item Information: &lt;/i&gt;(History Item List: [No.# Time: YYYY/MM/DD Title: Item Title,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 102, 102);&quot;&gt;CF Embedding&lt;/font&gt;, text embedding&amp;nbsp;&lt;font style=&quot;color: rgb(255, 153, 51);&quot;&gt;Text Embedding&lt;/font&gt;])&lt;/div&gt;" vertex="1">
           <mxGeometry height="290" width="2288" x="382" y="9820" as="geometry" />
         </mxCell>
         <mxCell id="mip_PBMthu6hTVa-ROTn-50" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=110;fontFamily=Times New Roman;fontColor=#608A50;" value="&lt;p style=&quot;language:zh-CN;margin-top:0pt;margin-bottom:0pt;margin-left:0in;&amp;lt;br/&amp;gt;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:none;&amp;lt;br/&amp;gt;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ours&lt;/span&gt;&lt;/p&gt;" vertex="1">
